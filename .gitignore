@@ -5,3 +5,4 @@ credentials*
 **/build/*
 .venv
 *.venv
+adquired_data_files/
