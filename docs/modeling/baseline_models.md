@@ -38,6 +38,8 @@ Se utilizaron las siguientes métricas para evaluar el rendimiento del modelo:
 
 ### Resultados de Evaluación
 
+![Predicción de valores verdaderos GRU ](GRU.png)
+
 | Métrica                  | Resultado         |
 |--------------------------|-------------------|
 | **MSE**                 | 0.0005374         |
