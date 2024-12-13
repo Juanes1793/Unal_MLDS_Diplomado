@@ -65,6 +65,10 @@ Ejemplo de comparación en el conjunto de entrenamiento:
 
 ## Métricas de Evaluación
 
+![Predicción de valores verdaderos Lstm Vanilla ](lstm_vanilla.png)
+
+En general, el modelo LSTM Vanilla es capaz de realizar predicciones que siguen de cerca los valores reales, capturando el patrón general de la serie de tiempo. Aunque existen algunos puntos con pequeñas desviaciones, el rendimiento del modelo parece adecuado. El siguiente paso podría ser un ajuste fino de los hiperparámetros o el uso de técnicas de regularización para mejorar aún más la precisión
+
 Se evaluaron las predicciones utilizando métricas estándar de series temporales:
 
 - *Mean Squared Error (MSE):* 0.000211
@@ -73,6 +77,8 @@ Se evaluaron las predicciones utilizando métricas estándar de series temporale
 - *Mean Absolute Percentage Error (MAPE):* 4.10%
 
 ## Análisis de Resultados
+
+
 
 - *Fortalezas:*
   - Un MAPE del 4.10% indica alta precisión en la predicción.
