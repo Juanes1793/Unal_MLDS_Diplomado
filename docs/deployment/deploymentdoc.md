@@ -2,8 +2,10 @@
 
 Este documento proporciona una guía estructurada para el despliegue de un modelo de predicción de demanda energética basado en series de tiempo. El modelo, denominado time_series_model.h5, ha sido entrenado utilizando TensorFlow y Keras y está diseñado para hacer predicciones precisas basadas en datos históricos. A continuación, se detallan los aspectos clave relacionados con su despliegue:
 
-El código desl despliegue se encuentra en : **scripts-Deployment-main.py***
-El modelo utilizado se encuentra en :  **scripts-training-time_series_models.h5 
+El código del despliegue se encuentra en : **scripts-Deployment-main.py**
+
+El modelo utilizado se encuentra en :
+**scripts-training-time_series_models.h5** 
 
 ## Infraestructura
 
@@ -38,9 +40,10 @@ El modelo utilizado se encuentra en :  **scripts-training-time_series_models.h5
 
 ## Código de despliegue
 
-- **Archivo principal:** El código desl despliegue se encuentra en : **scripts-Deployment-main.py***
+- **Archivo principal:** El código desl despliegue se encuentra en : 
+**scripts-Deployment-main.py**
 
-- **Rutas de acceso a los archivos:** El modelo utilizado se encuentra en :  **scripts-training-time_series_models.h5 
+- **Rutas de acceso a los archivos:** El modelo utilizado se encuentra en :  **scripts-training-time_series_models.h5** 
 
 - **Variables de entorno:** : No es necesario variables de entorno
 
